@@ -1,6 +1,9 @@
 # unity-buoyancy
 A cheap physically-accurate buoyancy approximation for meshes
 
+![Buoyancy example](https://github.com/djkoloski/unity-buoyancy/blob/master/example.gif)
+![Buoyancy example 2](https://github.com/djkoloski/unity-buoyancy/blob/master/example-moving.gif)
+
 ## Buoyancy Algorithm
 
 ### Pros
